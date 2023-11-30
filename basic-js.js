@@ -19,7 +19,7 @@ const cart = [
         quantity: 5
     },
     {
-        name: "coke",
+        name: "sprite",
         price: 200,
         discount: 0,
         quantity: 2
@@ -41,5 +41,11 @@ const cart = [
         price: 23000,
         discount: 30,
         quantity: 2
+
+                 name: "Amadin",
+        price: 23000,
+        discount: 30,
+        quantity: 2
+    },
     },
 ]
