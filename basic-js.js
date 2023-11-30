@@ -13,7 +13,7 @@ for(let number = 0; number < 10; number++){
 
 const cart = [
     {
-        name: "milk",
+        name: "cap rice",
         price: 200,
         discount: 10,
         quantity: 5
