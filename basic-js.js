@@ -11,12 +11,35 @@ for(let number = 0; number < 10; number++){
 }
 
 
-
-//we are the world 
-// we love weldios
-
-// string = "hello",
-// number = 3214324,
-// boolean = true/false
-// array = [34124,345143,43513, "names", "hello"]
-
+const cart = [
+    {
+        name: "milk",
+        price: 200,
+        discount: 10,
+        quantity: 5
+    },
+    {
+        name: "coke",
+        price: 200,
+        discount: 0,
+        quantity: 2
+    },
+    {
+        name: "macbook 2023 m3",
+        price: 2000000,
+        discount: 10,
+        quantity: 20
+    },
+    {
+        name: "jordans",
+        price: 400,
+        discount: 15,
+        quantity: 20
+    },
+    {
+        name: "dr Teals",
+        price: 23000,
+        discount: 30,
+        quantity: 2
+    },
+]
