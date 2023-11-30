@@ -10,6 +10,11 @@ for(let number = 0; number < 10; number++){
     console.log(number)
 }
 
+
+
+//we are the world 
+// we love weldios
+
 // string = "hello",
 // number = 3214324,
 // boolean = true/false
